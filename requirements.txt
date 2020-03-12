@@ -20,7 +20,7 @@ olefile==0.44
 openpyxl==2.4.7
 packaging==16.8
 phonenumberslite==8.4.2
-Pillow==4.1.1
+Pillow==6.2.0
 psycopg2==2.7.1
 pyparsing==2.2.0
 python-dateutil==2.6.0
